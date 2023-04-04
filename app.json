@@ -13,6 +13,11 @@
         "description": "Heroku app name, same as above entered",
         "required": true
       },
+      "OPEN_API_KEY": {
+        "description": "Enter your open ai api key",
+        "required": true
+      },
+
       "HEROKU_API_KEY": {
         "description": "Heroku account api key, https://dashboard.heroku.com/account",
         "required": true

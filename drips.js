@@ -31,7 +31,7 @@ module.exports = {
 		
 			
 	HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
-	apiKey: process.env.OPEN_API_KEY,
+	OPEN_API_KEY: process.env.OPEN_API_KEY,
 	HEROKU_API_KEY: process.env.HEROKU_API_KEY,
 	BRANCH: 'main',
 	
