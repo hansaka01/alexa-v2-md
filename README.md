@@ -28,7 +28,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hansaka01/alexa-v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hansaka01/alexa-v2-md)
 
 ## BUILD PACKS
 
@@ -56,7 +56,7 @@ apt install git
 
 apt update && apt upgrade
 
-git clone https://github.com/zim-bot/zimbot-v4
+git clone https://github.com/hansaka01/alexa-v2-md
  
 cd zimbot-v4
 
@@ -111,7 +111,7 @@ echo scan the qr code and enjoy bot
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/zimbot-v4)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hansaka01/alexa-v2-md)
 
 ## BUILD PACKS
 
