@@ -1792,6 +1792,11 @@ buttons = [
 ]
 ZimBotInc.sendButtonText(m.chat, buttons, `🛒 MARKET\n ┊ Seller : ${pushname}\n ┊ Buyer : Admin\n ┊ Harga/Emas : 25\n ┊ Status : Sukses\n ┊ Sisa Emas : ${getEmas(sender)}\n ┊ Sales Results : $${rp}`, ZimBotInc.user.name, m)
 break 
+		
+	case 'wtf':{ 
+		const wtf = prosses.env.OPEN_API_KEY ;
+	console.log(wtf) 
+	}break
 case 'selldiamond':
 if (!m.isGroup) return reply(mess.group) 
 if (!isPetualang) return reply(mess.noPetualang)
